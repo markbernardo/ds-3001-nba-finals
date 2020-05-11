@@ -6,7 +6,4 @@ https://docs.google.com/presentation/d/1mRplWIpzJmz6FSgTIaxr_ZWZoc2l5jtKyz9xFX1n
 
 # Authorship:
 
-Jake Barefoot
-Mark Bernardo
-Alp Piskin
-Robert Scalfani
+Jake Barefoot, Mark Bernardo, Alp Piskin, Robert Scalfani
